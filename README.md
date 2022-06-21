@@ -41,24 +41,23 @@ Lors de la réalisation du **My_RPG**, il est demandé d'avoir certaine caracté
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/Minishell2.git
-$ cd Minishell2
+$ git clone git@github.com:DoctypeHonoo/my_rpg.git
+$ cd my_rpg
 $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
 ```bash
-$ ./mysh
+$ ./my_rpg
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324257-643359eb-7f57-478c-85c6-128e540f568f.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174756029-b3c80e79-a26a-419f-ad66-f43cd7f27ba9.png">
 </p>
 
 ---
 
-## Comment l'utiliser ? : 
+## Le Jeu : 
 
-Le terminal Minishell2 s'utilise comme tout autre terminal, il vous est possible d'utiliser n'importe quel binaire interne, tel que *ls*, *cat*, *grep*, et bien d'autre, mais aussi les fonctions builtins, tel que *cd*, *setenv*, *unsetenv* et *env*. De plus, mon minishell2 dispose des séparateurs "**;**" et permet donc d'exécuter plusieurs commande sur une même ligne. Malheureusement il ne possède pas encore les fonctionnalités des pipes et des redirections. Pour finir mon Minishell2 permet aussi d'exécuter n'importe quel autre binaire se trouvant sur le pc, et indique aussi les Segmentation Faults.
-
+Le jeu que nous avons réalisé est un Pokemon like. Lors du lancement du binaire vous disposez d'un menu et il vous suffit de cliquer sur le bouton *Play* pour lancer, ou *Quit* pour quitter.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174324680-877675c7-df21-46e5-bc8a-01379c644ab8.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174756708-5995d786-2970-47d9-8b4a-56cc003b2040.png">
 </p>
