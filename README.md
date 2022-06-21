@@ -9,7 +9,10 @@
 
 ## Motivation : 
 
-Le **Minishell2** est un projet d'Epitech se déroulant vers milieu/fin d'année. Il fait parti d'une série de 3 grands projets sur le thème de la programmation de Terminal (Shell Programming). Il suit le Minishell1 et précède le 42sh, ça version finale qui est un des 3 grands projets d'Epitech.
+Le **My_RPG** est un des trois grands projets de fin d'année à Epitech, avec le *42sh* et le *corewar*. C'est l'un des projets les plus libres de l'année et le but est donc de créer un RPG. Ce projet se réalise en groupe de 4 et doit être fait en utilisant la CSFML.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174751319-b989d23b-bf0a-4ad7-9530-b9582537278c.png"/>
+</p>
 
 ---
 
