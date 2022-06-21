@@ -18,23 +18,22 @@ Le **My_RPG** est un des trois grands projets de fin d'année à Epitech, avec l
 
 ## Description :
 
-Le **Minishell2** à pour but de reprogrammer un terminal de commande en prenant le terminal TCSH comme exemple.
-Ces caractéristiques doivent être les suivantes : 
-- Pouvoir exécuter n'importe quel type de binaires
-- Créer les fonctions builtins *cd*, *env*, *setenv*, *unsetenv*
-- Gérer les séparateurs ";", les pipes "|" et les redirections "<", ">", "<<" et ">>"
-
-Quand aux fonctionnalités tels que les && et les || mais aussi le reste des builtins (where, alias, repeat...), elles sont l'un des objectifs du projet suivant, le 42sh.
+Lors de la réalisation du **My_RPG**, il est demandé d'avoir certaine caractéristiques sur le jeu : 
+- Le joueur doit avoir des statistiques et il doit être possible de les visualiser à l'aide d'un menu
+- Un système de combat doit être implémenté, le résultat du combat doit dépendre des statistiques du joueur et de son adversaire
+- Il devrait y avoir des PNJs dans le jeu
+- Un système de quête, avec au moins une quête, doit être mis en place
+- Le joueur doit avoir un inventaire dans lequel des objets doivent pouvoir être rangé
+- Le joueur doit pouvoir gagner de l'expérience avec les combas qu'il mène
+- Avec assez d'expérience, le joueur doit pouvoir monter de niveau
 
 ---
 
 ## Fonctions Autorisées : 
 
-- malloc, free, exit, opendir, readdir, closedir, getcwd, chdir
-- fork, stat, lstat, fstat, open, close, getline, strtok, strtok_r
-- read, write, execve, access, isatty, wait, waitpid
-- wait3, wait4, signal, kill, getpid, strerror, perror, strsignal
-- pipe, dup, dup2
+- Toutes les fonctions de la CSFML
+- Toutes les fonctions de la librairie Math
+- malloc, free, memset, (s)rand, getline, (f)open, (f)read, (f)close, (f)write, opendir, readdir, closedir
 
 ---
 
