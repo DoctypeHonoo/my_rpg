@@ -69,3 +69,6 @@ Le jeu possède un système de collision totalement fonctionnel avec le décor e
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174759264-2d0758bb-c3dd-4a6e-a08e-9900e104f382.png">
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174759971-90c6c6dc-6231-4663-8927-0df57ebc7ca0.png">
+</p>
