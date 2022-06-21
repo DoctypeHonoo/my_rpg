@@ -61,3 +61,11 @@ Le jeu que nous avons réalisé est un Pokemon like. Lors du lancement du binair
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174756708-5995d786-2970-47d9-8b4a-56cc003b2040.png">
 </p>
+Une fois le jeu lancé, le rendu graphique donne ceci : 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174758130-cac31698-199f-4cc1-b1c7-94c66773131e.png">
+</p>
+Le jeu possède un système de collision totalement fonctionnel avec le décor et possède aussi un système de combat. Le premier se déroule dans la maison et haut à gauche de l'écran, quand au deuxième, le combat du boss, se déroule dans la grotte au milieu à droite.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174759264-2d0758bb-c3dd-4a6e-a08e-9900e104f382.png">
+</p>
